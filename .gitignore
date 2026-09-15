@@ -1,0 +1,27 @@
+
+# Віртуальне середовище Python
+venv/
+.venv/
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Налаштування PyCharm
+.idea/
+
+# Логи
+*.log
+
+# Матеріали лабораторної
+звіт та завдання/
+скріншоти виконання/
+
+# Тимчасові файли
+*.tmp
+*.bak
+
+# Системні файли Windows
+Thumbs.db
+Desktop.ini
